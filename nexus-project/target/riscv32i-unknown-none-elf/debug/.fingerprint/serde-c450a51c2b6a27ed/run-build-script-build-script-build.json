@@ -1,0 +1,1 @@
+{"rustc":2977426507918707816,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3685433147916906762,"build_script_build",false,16468579389165631992]],"local":[{"RerunIfChanged":{"output":"riscv32i-unknown-none-elf/debug/build/serde-c450a51c2b6a27ed/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
